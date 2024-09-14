@@ -58,7 +58,3 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-
-gem "postgresql", "~> 1.0"
-
-gem "pg", "~> 1.5.8"
